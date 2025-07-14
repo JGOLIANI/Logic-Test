@@ -1,0 +1,14 @@
+c:\DEV\logic-test\bin\Debug\net9.0\logic-test.exe
+C:\DEV\logic-test\bin\Debug\net9.0\logic-test.deps.json
+C:\DEV\logic-test\bin\Debug\net9.0\logic-test.runtimeconfig.json
+c:\DEV\logic-test\bin\Debug\net9.0\logic-test.dll
+c:\DEV\logic-test\bin\Debug\net9.0\logic-test.pdb
+c:\DEV\logic-test\obj\Debug\net9.0\logic-test.GeneratedMSBuildEditorConfig.editorconfig
+c:\DEV\logic-test\obj\Debug\net9.0\logic-test.AssemblyInfoInputs.cache
+c:\DEV\logic-test\obj\Debug\net9.0\logic-test.AssemblyInfo.cs
+c:\DEV\logic-test\obj\Debug\net9.0\logic-test.csproj.CoreCompileInputs.cache
+c:\DEV\logic-test\obj\Debug\net9.0\logic-test.dll
+c:\DEV\logic-test\obj\Debug\net9.0\refint\logic-test.dll
+c:\DEV\logic-test\obj\Debug\net9.0\logic-test.pdb
+C:\DEV\logic-test\obj\Debug\net9.0\logic-test.genruntimeconfig.cache
+C:\DEV\logic-test\obj\Debug\net9.0\ref\logic-test.dll
